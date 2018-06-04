@@ -1,2 +1,2 @@
 # Revenue_Reports
-Helps create revenue reports for the Hasty Pudding Theatricals. 
+Simple Python script that formats Revenue Reports for the Hasty Pudding Theatricals. 
